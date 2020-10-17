@@ -15,7 +15,11 @@ Obfuscations implemented:
 9. Randomize Manifest
 10. Trivial obfuscations : Rebuild, GoTo, Nop
 
+
 Obfuscations run on malware sample from VirusTotal 
 SHA-256 : f638a7828900fcc9a680b10cc79f9b46eef43a1cd21e7324ece417a172da8857
 VirusTotal profile: https://www.virustotal.com/gui/file/f638a7828900fcc9a680b10cc79f9b46eef43a1cd21e7324ece417a172da8857/detection 
 
+Tools used: 
+1. Obfuscapk : https://github.com/ClaudiuGeorgiu/Obfuscapk
+2. JADX decompiler: https://github.com/skylot/jadx
