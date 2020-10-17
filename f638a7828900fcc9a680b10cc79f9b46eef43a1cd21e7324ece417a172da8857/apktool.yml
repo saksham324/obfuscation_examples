@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: f638a7828900fcc9a680b10cc79f9b46eef43a1cd21e7324ece417a172da8857.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- mid
+- res/drawable/privatekey
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '3'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

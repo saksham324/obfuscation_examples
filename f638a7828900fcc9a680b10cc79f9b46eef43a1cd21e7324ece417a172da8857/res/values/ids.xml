@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="LinearLayout02" />
+    <item type="id" name="LinearLayout03" />
+    <item type="id" name="HelpImageView01" />
+    <item type="id" name="TextView01" />
+    <item type="id" name="HelpImageView02" />
+    <item type="id" name="TextView03" />
+    <item type="id" name="LinearLayout04" />
+    <item type="id" name="HelpImageView03" />
+    <item type="id" name="HelpImageView04" />
+    <item type="id" name="HelpImageView05" />
+    <item type="id" name="TextView02" />
+    <item type="id" name="LinearLayout01" />
+    <item type="id" name="HelpButton01" />
+    <item type="id" name="HelpButton02" />
+    <item type="id" name="DialogEditText01" />
+    <item type="id" name="DialogButton01" />
+    <item type="id" name="DialogButton02" />
+</resources>
